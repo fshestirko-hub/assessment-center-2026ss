@@ -1,0 +1,9 @@
+Category,Handling_Type,Monthly_Storage_Fee_Per_Unit
+Apparel,Standard,0.25
+Apparel,Eco-Friendly,0.4
+Equipment,Standard,3.5
+Equipment,Eco-Friendly,4.0
+Supplements,Standard,1.1
+Supplements,Eco-Friendly,1.1
+Accessories,Standard,0.15
+Accessories,Eco-Friendly,0.2

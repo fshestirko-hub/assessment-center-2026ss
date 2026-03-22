@@ -1,0 +1,11 @@
+# Zenith Active Solutions — Track A: Data Engineering
+# Install all dependencies with:
+#
+#   pip install -r requirements.txt
+#
+# Python 3.9+ required (uses standard library: sqlite3, json, pathlib, abc)
+
+pandas>=1.5.0       # DataFrames, CSV/Excel reading, groupby, merge
+openpyxl>=3.0.0     # Required by pandas to read .xlsx files
+matplotlib>=3.6.0   # Charts (used in analysis scripts)
+seaborn>=0.12.0     # Statistical charts (scatter plots, trends)
