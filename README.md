@@ -8,7 +8,7 @@ Zenith experienced hyper-growth between 2021 and 2023, expanding from a handful 
 **Your Mission: You have ~3 hours to process a raw data room, identify the structural leaks destroying the company’s margins, and present a data-backed turnaround strategy.**
 
 ## How You Should Work
-**Your team must cover at least 2 of the 4 tracks.** Choose based on your team's strengths. Our preference is a combination that includes Track A + B (data + strategy), but a team that delivers a strong C+D or B+C solution will be evaluated equally. 
+**Your team must cover at least 2 of the 4 tracks.** Choose based on your team's strengths. Our preference is a combination that includes Track A + B (data + strategy), but a team that delivers a strong C+D or B+C solution will be evaluated equally.
 
 - 🟢 Data Engineering & Analytics
 - 🔵 Business Intelligence & Strategy
@@ -50,11 +50,11 @@ You are not just cleaning data—you are laying the foundation for how this comp
     - A behavioral issue
 
 4. ETL / Data Pipeline Attempt (Key Differentiator)
-    
+
     Go one step beyond analysis:
-    
+
     Design (or partially implement) a simple data pipeline or warehouse concept.
-    
+
     This can be:
 
     - A script that:
@@ -156,7 +156,7 @@ Your presentation must connect your work to the company's core problem. Don't ju
 
 Marketing spend has increased every quarter for two years, yet profitability is going down. The board suspects the growth engine is actually destroying value — acquiring the wrong customers, at the wrong price, through the wrong channels. Your job is to diagnose what's broken in the growth model, identify which channels and strategies are value-destroying, and redesign marketing to focus on profitable retention over vanity volume.
 
-#### The Role: 
+#### The Role:
 
 You are responsible for resetting how the company grows.
 
@@ -223,7 +223,7 @@ You can use data from:
 Your presentation must connect your work to the company's core problem. Don't just show what you built — explain what problem it solves, why that problem matters, and what financial impact your solution would have.
 
 
-### 🔴 Track D: UX/UI & Graphic Design 
+### 🔴 Track D: UX/UI & Graphic Design
 
     “Make the solution tangible and usable.”
 
@@ -240,7 +240,7 @@ You will be provided with:
 You are not designing from scratch—you are evolving an existing system.
 
 
-#### The Role: 
+#### The Role:
 
 You must visually redesign the customer touchpoints to increase Average Order Value (AOV) and reduce warehouse friction.
 
@@ -295,9 +295,9 @@ Your presentation MUST include:
 
 Optional but encouraged:
 
-- Value Driver Tree connecting operations → costs → EBITDA 
+- Value Driver Tree connecting operations → costs → EBITDA
 
-- Process maps (current vs. future state) 
+- Process maps (current vs. future state)
 
 - Live demo of a dashboard or data pipeline
 
