@@ -1,0 +1,24 @@
+Subject: Urgent: Shopify Theme Audit Findings
+
+To: Madison Carter  
+E-commerce Manager  
+madison.carter@zenithactivesolutions.com  
+Date: October 15, 2023  
+Time: 10:00 AM  
+
+Madison,
+
+I’ve completed a thorough audit of Zenith’s Shopify theme, and I need to bring a couple of glaring issues to your attention that are severely undermining user experience and likely affecting conversion rates.
+
+1. **Homepage Layout**: The homepage is dominated by an aggressive 30% off promo banner. While promotions are essential, this one overshadows the rest of the content and drives users away. It’s visually overwhelming and can create a sense of urgency that feels cheap rather than enticing. A more balanced approach would help to highlight not just the discount, but also the quality of your products.
+
+2. **Add to Cart Flow**: The current ‘Add to Cart’ functionality is flawed. It immediately redirects users to the checkout page, which is annoying and counterproductive for shoppers looking to add multiple items to their cart. This disrupts the shopping experience and likely leads to cart abandonment. Implementing a better cart flyout or a bundling UI would allow users to keep exploring your offerings without feeling rushed or frustrated.
+
+These issues are straightforward yet critical to address. Improving the user experience on your site should be a top priority if you want to recover profitability and maintain your customer base. 
+
+Let’s discuss how we can implement these changes effectively. 
+
+Best,  
+Alex Thompson  
+Freelance Web Developer  
+alex.thompson.dev@gmail.com  

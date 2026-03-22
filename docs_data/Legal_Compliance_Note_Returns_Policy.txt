@@ -1,0 +1,78 @@
+PRIVILEGED AND CONFIDENTIAL — ATTORNEY-CLIENT COMMUNICATION
+FOR INTERNAL USE ONLY — DO NOT FORWARD OR DISTRIBUTE EXTERNALLY
+
+════════════════════════════════════════════════════════════════
+INTERNAL LEGAL MEMORANDUM
+════════════════════════════════════════════════════════════════
+
+TO:     Rachel Simmons, CFO | Derek Lau, Head of E-Commerce
+FROM:   Vivienne Okafor, General Counsel
+DATE:   October 18, 2023
+RE:     Periodic Review — Customer Returns & Refunds Policy; Compliance Risk Flagged
+
+════════════════════════════════════════════════════════════════
+
+1. PURPOSE AND SCOPE
+
+This memorandum summarizes findings from the Legal department's routine semi-annual review of Zenith Active Solutions' customer-facing returns and refunds policy ("the Policy"), as published on the company's website and communicated at checkout. The review covers the period January 2023 through September 2023 and evaluates the Policy for compliance with applicable consumer protection regulations, payment network rules, and emerging chargeback exposure trends.
+
+This memo is prepared in my capacity as General Counsel and reflects legal analysis only. It does not constitute financial advice. Decisions arising from this memo should be made in consultation with Finance and Operations as appropriate.
+
+════════════════════════════════════════════════════════════════
+
+2. FINDINGS
+
+2a. Standard Returns Window — No Material Issues
+
+The current 30-day standard returns window for general customers is compliant with applicable state consumer protection statutes in our primary markets (New Jersey, New York, California, Texas, and Florida). Our restocking and refund processing procedures are within normal industry parameters. No action required on the standard policy at this time.
+
+2b. Influencer Promo Code Returns Window — Chargeback Exposure Risk (ACTION RECOMMENDED)
+
+This item requires attention.
+
+Zenith's current promotional structure extends a 60-day return window exclusively to customers who purchase using influencer affiliate promo codes (e.g., codes distributed through our Creator Affiliate Program). This extended window was introduced in Q4 2022 as an incentive to drive conversion among influencer audiences and was not flagged for legal review at the time of implementation.
+
+Following a review of Visa and Mastercard chargeback rules (specifically, Visa Dispute Resolution rules 11.2 and 13.1, and Mastercard's Merchant Chargeback Guide Section 4.3), I want to flag the following concern:
+
+The standard bank dispute resolution window for card-not-present transactions is approximately 60–75 days from the original transaction date, depending on the issuing bank. Our current 60-day influencer return window means that a non-trivial number of return requests from this customer cohort will fall at or beyond the point where the customer's bank dispute window is also open. In practical terms, this creates a situation where a customer who has not yet received a refund (due to processing time) may initiate a chargeback simultaneously with or instead of completing a standard return — particularly if they experience any friction in the returns process.
+
+Chargebacks differ from standard refunds in two important ways that carry cost implications:
+
+  (i)  Each chargeback incurs a fee from our payment processor (currently $25–$35 per dispute with Stripe, per our merchant agreement dated March 2022). Standard refunds carry no such fee.
+
+  (ii) Payment processors monitor chargeback ratios on a rolling 30-day basis. Visa's standard threshold is 0.9% of transactions; Mastercard's is 1.0%. If Zenith's chargeback ratio approaches these thresholds — which becomes more likely if influencer channel volume continues to grow and the 60-day window remains in place — we risk being placed on the MATCH list (Mastercard Alert to Control High-Risk Merchants), which would severely limit our ability to process card payments and would require remediation with significant operational and reputational consequences.
+
+I want to be clear that I am not in a position to assess whether we are currently approaching these thresholds — that analysis requires transaction-level data from Finance. However, from a legal and compliance standpoint, the policy as structured creates unnecessary exposure that is straightforward to remedy.
+
+Recommendation: Align the influencer promo code return window with the standard 30-day policy. This eliminates the chargeback timing overlap and reduces fee exposure without materially changing the customer experience for the majority of buyers. I recommend this change be implemented no later than Q1 2024, with updated terms communicated to active affiliates with reasonable notice (suggested: 45 days).
+
+2c. Returns Fraud — Monitoring Only
+
+There is an ongoing industry-wide increase in "wardrobing" and returns fraud in the DTC apparel segment. Our current policy does not have explicit language addressing this. Legal recommends adding a clause reserving the right to refuse returns on items showing signs of use. Draft language available upon request. Low urgency at this time.
+
+════════════════════════════════════════════════════════════════
+
+3. DISCLAIMERS AND LIMITATIONS
+
+This memorandum reflects legal analysis based on information available to the Legal department as of the date of writing. It does not constitute a comprehensive compliance audit. Zenith Active Solutions should consult with external counsel if this matter escalates or if payment processor communication is received regarding chargeback ratios.
+
+This document is protected by attorney-client privilege. It is intended solely for the named recipients and should not be forwarded, copied, or disclosed to third parties — including external vendors, affiliates, or agency partners — without prior written authorization from the General Counsel.
+
+════════════════════════════════════════════════════════════════
+
+4. REQUESTED ACTIONS
+
+  ☐  Finance (Rachel): Please pull chargeback volume data by acquisition channel for the past 12 months and share with Legal under privilege. This will allow us to assess whether current ratios warrant immediate escalation.
+
+  ☐  E-Commerce (Derek): Please review the feasibility of adjusting the influencer promo return window in the Shopify backend and coordinate with the Creator Affiliate team on communication timeline.
+
+  ☐  Legal will schedule a 30-minute working session with Finance and E-Commerce in the week of October 23 to align on next steps.
+
+════════════════════════════════════════════════════════════════
+
+Vivienne Okafor
+General Counsel, Zenith Active Solutions
+vokafor@zenithactive.com | Ext. 2301
+Direct: (732) 555-0187
+
+CONFIDENTIAL — ATTORNEY-CLIENT PRIVILEGE APPLIES

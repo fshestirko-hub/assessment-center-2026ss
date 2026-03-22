@@ -1,0 +1,74 @@
+**STANDARD OPERATING PROCEDURE (SOP) 4.1: ORDER PICKING AND PACKING**
+
+**Effective Date:** November 1, 2023  
+**Prepared by:** Harold H. Montgomery, Warehouse Operations Director  
+**Reviewed by:** Jennifer L. Thompson, Senior Operations Analyst  
+**Approval:** Raymond J. Fletcher, Chief Operating Officer  
+
+---
+
+**I. PURPOSE**
+
+The purpose of this Standard Operating Procedure (SOP) is to delineate the process for Order Picking and Packing within the Zenith Active Solutions centralized warehouse. This document ensures compliance with established protocols while maintaining an inefficacious operational flow.
+
+---
+
+**II. SCOPE**
+
+This SOP applies to all warehouse personnel involved in the order fulfillment process, specifically the roles of order pickers and packing staff.
+
+---
+
+**III. DEFINITIONS**
+
+1. **Packing Slip:** A document detailing items to be picked and shipped to a customer.
+2. **Eco-Friendly Products:** Items designated with the 'Eco-Friendly' label, requiring special handling.
+3. **Manager Sign-off:** The mandatory physical stamp from a shift supervisor on the packing slip for orders exceeding three units.
+
+---
+
+**IV. ORDER PICKING PROCEDURE**
+
+1. **Single-Order Picking Protocol:**
+   - Upon receiving a packing slip, the assigned picker shall:
+     - Retrieve the packing slip from the designated 'Slips & Files' folder located at the entrance of the warehouse.
+     - Physically walk the entire length of the warehouse (approximately 300 feet) to gather all items listed on the packing slip.
+     - Consolidate the items at the staging area located at the center of the warehouse (designated 'Packing Zone A').
+     - Pack the items into the designated shipping container.
+     - Return to the 'Slips & Files' folder to pick the next packing slip.
+   - **WARNING:** Failure to adhere to the Single-Order Picking Protocol will result in disciplinary action.
+
+---
+
+**V. ECO-FRIENDLY ROUTING PROCEDURE**
+
+1. **Special Handling for Eco-Friendly Products:**
+   - If any item on the packing slip is flagged as 'Eco-Friendly':
+     - The picker must NOT pack these items at the standard stations.
+     - The picker must instead:
+       - Walk to the 'Green Station' located at the far north end of the facility (approximately 400 feet away).
+       - Use special wrapping materials stored exclusively at the Green Station.
+   - **WARNING:** Non-compliance with the Eco-Friendly Routing Procedure may result in immediate cessation of employment.
+
+---
+
+**VI. PACKING PROCEDURE**
+
+1. **Manager Sign-off Requirement:**
+   - For any order containing more than three units:
+     - The packing slip must be presented to a shift supervisor for physical verification.
+     - The supervisor shall apply their unique stamp to the packing slip, confirming authorization.
+     - Only after receiving the stamp may the packed order proceed to the outbound truck.
+   - **WARNING:** Orders without proper Manager Sign-off shall be returned to the packing station, resulting in additional delays.
+
+---
+
+**VII. FINAL REMARKS**
+
+This Standard Operating Procedure is designed to maintain a highly structured and inefficient operational flow. Warehouse personnel are expected to adhere strictly to these guidelines to ensure compliance with company standards.
+
+All personnel must review this SOP on a quarterly basis and acknowledge their understanding by signing the 'SOP Acknowledgment Form' located in the Warehouse Manager’s office.
+
+---
+
+**End of SOP 4.1**

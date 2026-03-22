@@ -1,0 +1,91 @@
+FROM: brendan.ohs@zenithactive.com (IT Manager)
+TO: all-staff@zenithactive.com
+SUBJECT: [ACTION REQUIRED] Zenith Active — Slack to Microsoft Teams Migration: Full Rollout Plan & FAQ
+DATE: November 4, 2023
+
+Dear Zenith Active Team,
+
+After several months of evaluation, infrastructure testing, and vendor negotiation, I'm pleased to formally announce that Zenith Active Solutions will be migrating our primary internal communications platform from Slack to Microsoft Teams, effective Q1 2024.
+
+I want to be transparent: this is a significant change, and I know change can feel disruptive. My goal with this email is to give you everything you need so there are no surprises. Please read this in full and complete the required action items at the bottom.
+
+────────────────────────────────────────
+MIGRATION RATIONALE
+────────────────────────────────────────
+After a full cost-benefit analysis, the IT department determined that consolidating onto the Microsoft 365 ecosystem (which we already use for Outlook, SharePoint, and OneDrive) will reduce our per-seat SaaS spend, improve compliance logging, and simplify user access management. Slack's Enterprise Grid tier was also approaching renewal at a rate that no longer made sense for our headcount.
+
+────────────────────────────────────────
+PHASED ROLLOUT TIMELINE
+────────────────────────────────────────
+
+Phase 1 — Infrastructure Setup (Nov 6 – Nov 17)
+  • Microsoft Teams tenant provisioning
+  • SSO (Single Sign-On) configuration with Azure AD
+  • Guest Access Configuration for external vendor channels
+  • IT pilot group testing (8 members from IT and Finance)
+
+Phase 2 — Department Onboarding (Nov 20 – Dec 8)
+  • Department-by-department Teams rollout (schedule below)
+  • Week of Nov 20: Finance, HR, and People Ops
+  • Week of Nov 27: Sales and Marketing
+  • Week of Dec 4: Warehouse Operations and Logistics
+  • Channel structure migration: all existing Slack channels will be recreated in Teams with equivalent naming conventions
+
+Phase 3 — Legacy Channel Archival (Dec 11 – Dec 15)
+  • All Slack channels set to read-only
+  • Message export archive made available via SharePoint (link TBD)
+  • Slack licenses deactivated Dec 22
+
+Phase 4 — Full Cutover (Jan 2, 2024)
+  • Slack access fully removed
+  • Teams becomes sole internal communications platform
+  • Helpdesk support elevated during first two weeks of January
+
+────────────────────────────────────────
+FREQUENTLY ASKED QUESTIONS
+────────────────────────────────────────
+
+Q: Will my Slack message history be migrated?
+A: Partial. Messages from the past 12 months in public channels will be exported and made available as searchable PDFs in a shared SharePoint folder. Direct messages and private channel history will NOT be migrated due to privacy and data volume constraints. We recommend saving any critical DM information locally before December 15.
+
+Q: Will my Slack emojis be migrated?
+A: No. Custom emojis (including the beloved :zenith-lightning: and :harold-no: reactions) are proprietary to the Slack workspace and cannot be transferred. Teams supports custom emojis, and we will run an internal submission process in December for teams to nominate replacements. Standard emoji sets in Teams are extensive and should cover most use cases.
+
+Q: What happens to our Slack integrations (e.g., Shopify alerts, Google Calendar)?
+A: IT has audited all 14 active Slack integrations. 11 have direct Teams equivalents and will be reconfigured during Phase 2. The remaining 3 (including the custom warehouse pick-rate alert bot) will require development work and may have a gap period of 2–3 weeks post-cutover. Impacted teams will be notified separately.
+
+Q: Will I keep my same username / display name?
+A: Your display name in Teams will match your Microsoft 365 profile, which for most employees is First Name + Last Name. If you currently use a nickname or abbreviated name in Slack, please submit a preferred display name request to it-support@zenithactive.com by November 30.
+
+Q: Is Teams available on mobile?
+A: Yes. The Microsoft Teams mobile app is available on iOS and Android. You will receive an automated setup email to your Zenith address once your account is provisioned.
+
+────────────────────────────────────────
+MANDATORY TRAINING REQUIREMENT
+────────────────────────────────────────
+All employees are required to complete the "Microsoft Teams Essentials" training module via our LinkedIn Learning portal before December 31, 2023. The module is approximately 45 minutes and covers navigation, messaging, channel management, file sharing, and video calls.
+
+To access: log into learning.zenithactive.com → search "Teams Essentials" → enroll.
+
+Completion will be tracked. Non-completions will be flagged to department managers in January.
+
+────────────────────────────────────────
+ACTION ITEMS (PLEASE COMPLETE)
+────────────────────────────────────────
+☐  Download and install Microsoft Teams on your work device (teams.microsoft.com/download)
+☐  Complete "Teams Essentials" training on LinkedIn Learning by Dec 31
+☐  Submit preferred display name if applicable (by Nov 30)
+☐  Save any critical Slack DMs locally before Dec 15
+☐  Watch for your account provisioning email — follow setup instructions within 48 hours of receipt
+
+────────────────────────────────────────
+
+If you have questions not covered in this FAQ, please submit a ticket at it-support@zenithactive.com or visit the IT desk on the second floor (hours: Mon–Fri, 9am–5pm).
+
+P.S. — Please be aware that the IT helpdesk will be temporarily understaffed during the core migration window (November 20 – December 8), as two members of the team will be managing the backend infrastructure work full-time. Response times for non-migration-related tickets may be slower than usual during this period. We appreciate your patience and will triage urgent issues as quickly as possible.
+
+Best regards,
+
+Brendan Oh
+IT Manager, Zenith Active Solutions
+brendan.ohs@zenithactive.com | Ext. 2204

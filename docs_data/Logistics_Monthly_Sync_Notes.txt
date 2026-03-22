@@ -1,0 +1,13 @@
+**Monthly Logistics Sync Notes**  
+**Date:** October 15, 2023  
+**Attendees:** John Carter, Lisa Tran, Mark Henderson, Sarah Liu  
+
+- Current parcel volume from Zone 7 and Zone 8 (West Coast) is significantly skewing our blended carrier rates higher than initially forecasted. Need to assess potential impact on overall logistics budget.
+  
+- Reminder to review the new 'warehouse_rate_card.xlsx.' It is essential to optimize our costs.
+
+- Pallet density remains a concern; we are incurring premium storage fees for legacy variants (the bottom 100 SKUs). These items are rarely picked and are negatively affecting our profitability. Consider strategies to either reduce the stock of these SKUs or enhance their turnover.  
+
+- Action items from last meeting remain outstanding; please address them before next sync. 
+
+- Next meeting scheduled for November 15, 2023, at 10:00 AM.
